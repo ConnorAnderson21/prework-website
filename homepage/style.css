@@ -1,0 +1,48 @@
+#categories {
+    font-size: 40px;
+    text-align: center;
+    display: inline;
+    position: ;
+
+}
+
+.cat {
+    display: inline-block;
+    padding: 20px;
+    background-color: darkslateblue;
+
+}
+
+.cat:hover {
+    background-color: white;
+}
+
+figure {
+    border-color: white;
+    border-width: 10px;
+    border-style: solid;
+    box-sizing: content-box;
+    
+}
+
+h1 {
+    font-size: 60px;
+    position: ;
+    background-color: darkslateblue;
+    text-align: center;
+}
+
+body {
+    background-image: url("/homepage/images/mountain.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: ;
+}
+
+figcaption {
+    background-color: white;
+}
+
+p {
+    background-color: white;
+}
